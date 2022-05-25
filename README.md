@@ -8,8 +8,8 @@
 	- `test_over.mp4`
 	- `test.mp4`
 4. Download libraries and tools on `requirements.txt`
-5. Run python files in order but choose one of text to speech file. Don't run `Google` and `IBM` together.
-6. test_over.mp4 and output\test_.srt are final products.
+5. Run python files in order (or just run `ExecuteAll.py`) but choose one of text to speech file. Don't run `Google` and `IBM` together.
+7. test_over.mp4 and output\test_.srt are final products.
 
 7. If you choose alternative way `THIS WAY CAN CONSUME MORE CPU% AND RAM`
     - Copy all files and folders from `AlternativeWayForPptxToVideo`,
@@ -29,6 +29,7 @@
       - `4_TextToMp3(Google).py or 4_TextToMp3(IBM).py`
       - `5_ MergeVideoAndMp3.py`
       - `6_ConvertMp3ToSrt.py`
+
     
 
     
