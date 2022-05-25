@@ -2,9 +2,8 @@
 
 1. Please change your PowerPoint with name test.pptx.
 2. Please change your Speech Text File with name test_.txt.
-3. Please delete these files:
-    output\test_.srt
-    test_.mp3
+3. Please delete these files:output\test_.srt
+&nbsp;test_.mp3
     test_over.mp4
     test.mp4
 4. Download libraries and tools on requirements.txt.
